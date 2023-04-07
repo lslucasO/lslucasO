@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-![lslucasO GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasO&show_icons=true&theme=tokyonight)
+![lslucasO GitHub stats](https://github-readme-stats.vercel.app/api?username=lslucasO&show_icons=true&theme=tokyonight)
 
 
 ## Tecnologias que eu uso no meu dia
