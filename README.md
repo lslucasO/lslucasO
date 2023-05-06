@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas Santana 🖐️
+## Olá! Meu nome é Lucas Santana 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucakser/)
 
