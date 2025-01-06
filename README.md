@@ -2,7 +2,7 @@
 
 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-📊 Analista de Dados em Formação
+📊 Analista de Dados
 
 📈 Explorando o mundo dos dados e tomando decisões baseadas em insights
 
