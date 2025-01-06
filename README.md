@@ -1,6 +1,6 @@
 👋 Olá, sou Lucas Santana!
 
-👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 📊 Analista de Dados em Formação
 
