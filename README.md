@@ -2,8 +2,8 @@
 
 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-📊 Analista de Dados
+📊 Desenvolvedor Júnior
 
-📈 Explorando o mundo dos dados e tomando decisões baseadas em insights
+📈 Explorando o mundo doa tecnologia e tomando decisões baseadas em insights
 
 🌐 Aprendendo e compartilhando conhecimento aqui no GitHub!
